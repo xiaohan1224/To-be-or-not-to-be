@@ -10,11 +10,11 @@ Since there aren't many features in the raw file, and PlayerLine and Play are in
    1. Data cleaning: All rows contain null are removed, since they are just voiceover
    2. Data Transformation:
    
-         2.1 ActSceneLine is seperated to 3 columns: Act, Scene and Line
+         a) ActSceneLine is seperated to 3 columns: Act, Scene and Line
           
-         2.2 Label Encoder is used to transform target labels with value between 0 and n_classes -1
+         b) Label Encoder is used to transform target labels with value between 0 and n_classes -1
               
-         2.3 One hot is used to transform categorical features as a one-hot numeric array
+         c) One hot is used to transform categorical features as a one-hot numeric array
           
    3. Feature correlation
    4. Decision tree, Random Forest and Logistic Regression classifiers are applied
