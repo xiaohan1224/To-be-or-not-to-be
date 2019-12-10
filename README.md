@@ -23,6 +23,9 @@ From the result, Random Forest Classifier with current parameter setting, overpe
 
 ==============
 Project Structure
+
+```bash
+
 .
 ├── notebooks
 │     ├── To be, or not to be
@@ -32,3 +35,4 @@ Project Structure
       ├── Shakespeare_data.csv
       ├── alllines.txt
       └── william-shakespeare-black-silhouette.jpg
+```
