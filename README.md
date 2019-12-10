@@ -22,7 +22,7 @@ Since there aren't many features in the raw file, and PlayerLine and Play are in
     3. Logistic Regression Classifier accuracy: 25.27%
 From the result, Random Forest Classifier with current parameter setting, overperfomrs Decisoin tree classifier and Logistic Regression Classifier.
 
-##Project Structure
+## Project Structure
 ===============
 ```bash
 
