@@ -22,12 +22,13 @@ Result:
 From the result, Random Forest Classifier with current parameter setting, overperfomrs Decisoin tree classifier and Logistic Regression Classifier.
 
 ==============
+Project Structure
 .
 ├── notebooks
-    ├── To be, or not to be
-    └── correlation.png
+│     ├── To be, or not to be
+│     └── correlation.png
 ├── README.md
 └── data
-    ├── Shakespeare_data.csv
-    ├── alllines.txt
-    └── william-shakespeare-black-silhouette.jpg
+      ├── Shakespeare_data.csv
+      ├── alllines.txt
+      └── william-shakespeare-black-silhouette.jpg
