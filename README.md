@@ -1,12 +1,12 @@
 To be, or not to be
 =============
-##Shakespeare Dataset Classification
+## Shakespeare Dataset Classification
 =============
 Resource: https://www.kaggle.com/kingburrito666/shakespeare-plays
 
 Since there aren't many features in the raw file, and PlayerLine and Play are in English language, so encode PlayerLine and Play needs to be encoded.
 
-##Main steps:
+## Main steps:
     1. Data cleaning: All rows contain null are removed, since they are just voiceover
     2. Data Transformation:
                                         a) ActSceneLine is seperated to 3 columns: Act, Scene and Line
@@ -16,7 +16,7 @@ Since there aren't many features in the raw file, and PlayerLine and Play are in
     3. Feature correlation
     4. Decision tree, Random Forest and Logistic Regression classifiers are applied
 
-##Result:
+## Result:
     1. Random Forest Classifier accuracy: 55.84%
     2. Decision Tree Classifier accuracy: 54.88%
     3. Logistic Regression Classifier accuracy: 25.27%
