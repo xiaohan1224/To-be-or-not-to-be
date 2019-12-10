@@ -2,6 +2,7 @@ To be, or not to be
 =============
 Shakespeare Dataset Classification
 =============
+Resource: https://www.kaggle.com/kingburrito666/shakespeare-plays
 Since there aren't many features in the raw file, and PlayerLine and Play are in English language, so encode PlayerLine and Play needs to be encoded.
 
 Main steps:
@@ -19,3 +20,14 @@ Result:
     2. Decision Tree Classifier accuracy: 54.88%
     3. Logistic Regression Classifier accuracy: 25.27%
 From the result, Random Forest Classifier with current parameter setting, overperfomrs Decisoin tree classifier and Logistic Regression Classifier.
+
+==============
+.
+├── notebooks
+    ├── To be, or not to be
+    └── correlation.png
+├── README.md
+└── data
+    ├── Shakespeare_data.csv
+    ├── alllines.txt
+    └── william-shakespeare-black-silhouette.jpg
