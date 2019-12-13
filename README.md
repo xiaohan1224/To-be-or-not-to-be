@@ -33,7 +33,7 @@ From the result, Random Forest Classifier with current parameter setting, overpe
 ├── README.md
 └── data
       └── raw
-            ├── Shakespeare_data.csv
-            ├── alllines.txt
-            └── william-shakespeare-black-silhouette.jpg
+           ├── Shakespeare_data.csv
+           ├── alllines.txt
+           └── william-shakespeare-black-silhouette.jpg
 ```
