@@ -28,7 +28,7 @@ From the result, Random Forest Classifier with current parameter setting, overpe
 
 .
 ├── notebooks
-│     ├── To be, or not to be
+│     ├── To be, or not to be.ipyb
 │     └── correlation.png
 ├── README.md
 └── data
